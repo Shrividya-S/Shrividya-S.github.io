@@ -1,0 +1,178 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+  }
+  .nav-bar{
+    width: 100%;
+    background-color: blueviolet;
+    display: flex;
+    height: 20%;
+    position: absolute;
+  }
+  .logo{
+    background-color: yellowgreen;
+    width: 6%;
+    padding-left: 95px;
+    padding-top: 30px;
+    margin-left:  9%;
+    margin-top: 1%;
+  }
+  .link-box{
+    width: 70%;
+    height: 79%;
+    background-color: turquoise;
+    display: flex;
+    margin-left: 6%;
+    margin-top: 1.3%;
+  }
+  .link-box .link-one{
+  
+    width: 20%;
+    height: 30.5%;
+    background-color: red;
+    align-self: center;
+    display: inline-block;
+    margin-left: 500px;
+  }
+  .link-box .link-two{
+    width: 20%;
+    height: 30.5%;
+    background-color: red;
+    align-self: center;
+    display: inline-block;
+   margin-left: 2.5%;
+  }
+  .link-box .link-three{
+    width: 20%;
+    height: 30.5%;
+    background-color: red;
+    align-self: center;
+    display: inline-block;
+    margin-left: 2.5%;
+  }
+  .link-box .link-four{
+    width: 20%;
+    height: 30.5%;
+    background-color: red;
+    align-self: center;
+    display: inline-block;
+    margin-left: 2.5%;
+  }
+  .link-box .link-five{
+    width: 20%;
+    height: 30.5%;
+    background-color: red;
+    align-self: center;
+    display: inline-block;
+    margin-left: 2.5%;
+  }
+  .container-box{
+   
+    width: 100%;
+    display: flex;
+   
+  }
+  .container-box .top-box{
+    background: #660682;
+  width: 100%;
+    height: 60%;
+    position: absolute;
+    margin-top: 9%;
+  }
+  .girl-box{
+    background: plum;
+    width: 15%;
+    height: 80%;
+    margin-left: 60%;    
+    margin-top: 5.65%;
+  }
+  .top-box .contact-box{
+    width: 10%;
+    height: 20%;
+    background: hotpink;
+    margin-top: -5.9%;
+    margin-left: 75%;
+
+   
+    }
+  .sentence{
+    margin-left: 9%;
+  align-self: center;
+    width: 35%;
+    height: 75%;
+    background-color: white;
+   position: absolute;
+    margin-top: 5%;
+  }
+  
+  
+  .container-box .bottom-box{
+    width: 100%;
+    height: 60%;  
+  }
+  .footer{
+    height: 150px;
+    width: 100vw;
+    position: absolute;
+    z-index: 20;
+    display: flex;
+    background-color: whitesmoke;
+    align-self: center;
+    bottom: 15px;
+  }
+  .icons{
+    width: 100%;
+    height: 84%;
+    display: flex;
+    align-self: center;
+    margin-left: 0%;
+    background-color: cornsilk;
+    position: absolute;
+  }
+  .icons .picture-one{
+     width: 10%;
+    height: 80%;
+    margin-left: 17%;
+    background-color: black;
+    align-self: center;
+ 
+  }
+.picture-one .line-one{
+  width: 80%;
+  height: 20%;
+  margin-top: 70%;
+  margin-left: 10%;
+  background-color: red;
+}
+  
+  .icons .picture-two{
+        width: 10%;
+    height: 80%;
+    margin-left: 16%;
+    background-color: black;
+    align-self: center;
+    
+  }
+.picture-two .line-two{
+    width: 80%;
+  height: 20%;
+  margin-top: 70%;
+  margin-left: 10%;
+  background-color: red;
+}
+  .icons .picture-three{
+        width: 10%;
+    height: 80%;
+    margin-left: 16%;
+    background-color: black;
+    align-self: center;
+
+  }
+.picture-three .line-three{
+    width: 80%;
+  height: 20%;
+  margin-top: 70%;
+  margin-left: 10%;
+  background-color: red;
+}

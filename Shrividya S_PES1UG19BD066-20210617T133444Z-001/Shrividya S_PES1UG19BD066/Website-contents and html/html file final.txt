@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="/main.css">
+    <link rel="stylesheet" href="">
+</head>
+<header>
+    <div class="nav-bar">
+        <div class="logo">
+            <img src="/images/Picture1.png">
+        </div>
+        <div class="link-box">
+        <div class="link">
+            <a href="https://www.google.com/"><span>HOME</span> </a> 
+        </div>
+        <div class="link">
+            <a href="https://www.google.com/"><span>ABOUT</span> </a> 
+        </div>
+        <div class="link">
+            <a href="https://www.google.com/"><span>PORTFOLIO</span> </a> 
+        </div>
+        <div class="link">
+            <a href="https://www.google.com/"><span>PAGES</span> </a> 
+        </div>
+        <div class="link">
+            <a href="https://www.google.com/"><span>BLOG</span> </a> 
+        </div>
+    </div>
+   
+      
+        
+</header>
+<div class="head">
+    <body><p style="margin-left:100px">A CREATIVE UI/UX DESIGNER</p></body>
+</div>
+<div id="bodyContent" class="mw-body-content">
+    <p style="margin-left:100px">Hi and welcome to my portfolio webpage! Please go through my designs and feel free to comment, leave reviews, like and share I hope you enjoy browsing through it!</p>
+    <hr><hr>
+</div>
+
+    <div class="picture-girl">
+    <div class="girl">
+        <img src="/images/Picture2.png"
+    </div>
+    </div>
+    <div class="Contact-me">
+        <div class="contacts">
+            <img src="images/Picture3.jpg">
+        </div>
+    </div>
+
+<div class="allpics"
+<div class="allp" 
+<p> <br><br><br><br><br><br><br><br><br><br></p>
+    <div class="graphic-design">
+        <div class="graphics">
+            <img src="images/Picture4.jpg" 
+        </div>    
+    </div>
+    
+    <div class="game-design">
+        <div class="game">
+            <img src="images/Picture5.jpg" width="370" height="300"
+    
+        </div>
+       
+    </div>
+    
+    <div class="interior-design">
+        <div class="interiors">
+            <img src="images/Picture6.jpg"
+        </div>
+    </div>
+</div>
+</div>
+
+<div id="namesofstreams" class="graphiccc">
+    <p style="margin-left:100px">GRAPHIC DESIGN </p>
+</div>
+
+<div id="namesofprojects" class="gameee">
+    <p style="margin-left:100px">GAME DESIGN </p>
+</div>
+
+<div id="namesofbranches" class="interiorsss">
+    <p style="margin-left:100px">INTERIOR DESIGN </p>
+</div>
+
+
+</div>
+</html>
